@@ -81,4 +81,4 @@
 
 このリポジトリが役に立った場合は、スターを付けてください。あなたのサポートが私たちの励みになります！
 
-[![GitHub Stars](https://img.shields.io/github/stars/koga1983/ansible?style=social)](https://github.com/koga1983/ansible/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/koga1983/tableau-tagged-datasource-extractor?style=social)](https://github.com/koga1983/tableau-tagged-datasource-extractor/stargazers)
